@@ -32,7 +32,9 @@ A Flutter app that uses machine learning to identify whether an image contains a
    ```
 
 ## 📸 Screenshots
-<img src="https://github.com/user-attachments/assets/1d92efa2-d6ed-4c90-bb61-b91943740a8b" width="350" height="450">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d92efa2-d6ed-4c90-bb61-b91943740a8b" width="300" height="500">
+</p>
 
 
 
